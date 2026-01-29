@@ -1,2 +1,7 @@
 Sequence,Motif,Count
-HIV_CONTAINER,ATG,29
+HIV_SEQUENCE_1,ATG,29
+HIV_Variant,ATG,29
+Influenza_A,ATG,55
+Covid_19,ATG,12
+Ebola_Zaire,ATG,37
+Zika_Virus,ATG,14
